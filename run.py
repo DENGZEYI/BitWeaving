@@ -14,7 +14,7 @@ def show(input_partitions):
     print("\nnumber of partitions : ", partition_number)
     for i in range(partition_number):
         print("partition ", i, " ", input_partitions[i])
-
+        
 
 def pre_run(rule_list_file_name_path):
     file_name = rule_list_file_name_path.split('/')[-1]
