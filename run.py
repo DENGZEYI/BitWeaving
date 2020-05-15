@@ -2,7 +2,7 @@ import bit_swapping
 import bit_merging
 import bit_recovery
 import minimizing
-from savelist import savelist
+
 import pre_process
 import json
 import os
@@ -14,7 +14,7 @@ def show(input_partitions):
     print("\nnumber of partitions : ", partition_number)
     for i in range(partition_number):
         print("partition ", i, " ", input_partitions[i])
-        
+
 
 def pre_run(rule_list_file_name_path):
     file_name = rule_list_file_name_path.split('/')[-1]
@@ -55,6 +55,7 @@ def run(rule_list_file_name_path):
 
 
 def experiment():
+    print('start: ')
     summary_rule_list_length = []
     summary_ori_rule_list_length = []
     summary_compressing_ratio = []
@@ -63,24 +64,26 @@ def experiment():
     for i in range(len(file_name_list)):
         print('rule_set', i, '/', len(file_name_list))
         file_name_path = './rule_set/' + file_name_list[i]
-        pre_run(file_name_path)
-        # a, b, c = run(file_name_path)
-    #     with open('./result/summary_partition.txt', mode='a') as f:
-    #         f.write("rule_list_number:" + str(a))
-    #         f.write('\t')
-    #         f.write("rule_list_number_ori" + str(b))
-    #         f.write('\t')
-    #         f.write(str(c))
-    #         f.write('\n')
-    #     summary_rule_list_length.append(a)
-    #     summary_ori_rule_list_length.append(b)
-    #     summary_compressing_ratio.append(c)
-    #     print("processing: " + str(i) + "/" + str(len(file_name_list)))
-    # summary.append(summary_rule_list_length)
-    # summary.append(summary_ori_rule_list_length)
-    # summary.append(summary_compressing_ratio)
-    # with open('summary.txt') as file:
-    #     file.write(json.dumps(summary))
+        # pre_run(file_name_path)
+        a, b, c = run(file_name_path)
+        with open('./result/summary_partition.txt', mode='a') as f:
+            f.write(file_name_list[i])
+            f.write('\t')
+            f.write("rule_list_number:" + str(a))
+            f.write('\t')
+            f.write("rule_list_number_ori" + str(b))
+            f.write('\t')
+            f.write(str(c))
+            f.write('\n')
+        summary_rule_list_length.append(a)
+        summary_ori_rule_list_length.append(b)
+        summary_compressing_ratio.append(c)
+        print("processing: " + str(i) + "/" + str(len(file_name_list)))
+    summary.append(summary_rule_list_length)
+    summary.append(summary_ori_rule_list_length)
+    summary.append(summary_compressing_ratio)
+    with open('./result/summary.txt', mode='w') as file:
+        file.write(json.dumps(summary))
 
 
 def test():

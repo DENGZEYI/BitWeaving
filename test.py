@@ -7,9 +7,4 @@ with open('a.txt', mode='w') as f:
         f.write(str(i))
 
 
-list = []
-with open('a.txt', mode='r') as f:
-    for line in f:
-        list.append(line)
 
-print(time.time()-start)

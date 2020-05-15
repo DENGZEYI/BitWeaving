@@ -1,0 +1,702 @@
+nohup: ignoring input
+start: 
+rule_set 0 / 350
+processing: 0/350
+rule_set 1 / 350
+processing: 1/350
+rule_set 2 / 350
+processing: 2/350
+rule_set 3 / 350
+processing: 3/350
+rule_set 4 / 350
+processing: 4/350
+rule_set 5 / 350
+processing: 5/350
+rule_set 6 / 350
+processing: 6/350
+rule_set 7 / 350
+processing: 7/350
+rule_set 8 / 350
+processing: 8/350
+rule_set 9 / 350
+processing: 9/350
+rule_set 10 / 350
+processing: 10/350
+rule_set 11 / 350
+processing: 11/350
+rule_set 12 / 350
+processing: 12/350
+rule_set 13 / 350
+processing: 13/350
+rule_set 14 / 350
+processing: 14/350
+rule_set 15 / 350
+processing: 15/350
+rule_set 16 / 350
+processing: 16/350
+rule_set 17 / 350
+processing: 17/350
+rule_set 18 / 350
+processing: 18/350
+rule_set 19 / 350
+processing: 19/350
+rule_set 20 / 350
+processing: 20/350
+rule_set 21 / 350
+processing: 21/350
+rule_set 22 / 350
+processing: 22/350
+rule_set 23 / 350
+processing: 23/350
+rule_set 24 / 350
+processing: 24/350
+rule_set 25 / 350
+processing: 25/350
+rule_set 26 / 350
+processing: 26/350
+rule_set 27 / 350
+processing: 27/350
+rule_set 28 / 350
+processing: 28/350
+rule_set 29 / 350
+processing: 29/350
+rule_set 30 / 350
+processing: 30/350
+rule_set 31 / 350
+processing: 31/350
+rule_set 32 / 350
+processing: 32/350
+rule_set 33 / 350
+processing: 33/350
+rule_set 34 / 350
+processing: 34/350
+rule_set 35 / 350
+processing: 35/350
+rule_set 36 / 350
+processing: 36/350
+rule_set 37 / 350
+processing: 37/350
+rule_set 38 / 350
+processing: 38/350
+rule_set 39 / 350
+processing: 39/350
+rule_set 40 / 350
+processing: 40/350
+rule_set 41 / 350
+processing: 41/350
+rule_set 42 / 350
+processing: 42/350
+rule_set 43 / 350
+processing: 43/350
+rule_set 44 / 350
+processing: 44/350
+rule_set 45 / 350
+processing: 45/350
+rule_set 46 / 350
+processing: 46/350
+rule_set 47 / 350
+processing: 47/350
+rule_set 48 / 350
+processing: 48/350
+rule_set 49 / 350
+processing: 49/350
+rule_set 50 / 350
+processing: 50/350
+rule_set 51 / 350
+processing: 51/350
+rule_set 52 / 350
+processing: 52/350
+rule_set 53 / 350
+processing: 53/350
+rule_set 54 / 350
+processing: 54/350
+rule_set 55 / 350
+processing: 55/350
+rule_set 56 / 350
+processing: 56/350
+rule_set 57 / 350
+processing: 57/350
+rule_set 58 / 350
+processing: 58/350
+rule_set 59 / 350
+processing: 59/350
+rule_set 60 / 350
+processing: 60/350
+rule_set 61 / 350
+processing: 61/350
+rule_set 62 / 350
+processing: 62/350
+rule_set 63 / 350
+processing: 63/350
+rule_set 64 / 350
+processing: 64/350
+rule_set 65 / 350
+processing: 65/350
+rule_set 66 / 350
+processing: 66/350
+rule_set 67 / 350
+processing: 67/350
+rule_set 68 / 350
+processing: 68/350
+rule_set 69 / 350
+processing: 69/350
+rule_set 70 / 350
+processing: 70/350
+rule_set 71 / 350
+processing: 71/350
+rule_set 72 / 350
+processing: 72/350
+rule_set 73 / 350
+processing: 73/350
+rule_set 74 / 350
+processing: 74/350
+rule_set 75 / 350
+processing: 75/350
+rule_set 76 / 350
+processing: 76/350
+rule_set 77 / 350
+processing: 77/350
+rule_set 78 / 350
+processing: 78/350
+rule_set 79 / 350
+processing: 79/350
+rule_set 80 / 350
+processing: 80/350
+rule_set 81 / 350
+processing: 81/350
+rule_set 82 / 350
+processing: 82/350
+rule_set 83 / 350
+processing: 83/350
+rule_set 84 / 350
+processing: 84/350
+rule_set 85 / 350
+processing: 85/350
+rule_set 86 / 350
+processing: 86/350
+rule_set 87 / 350
+processing: 87/350
+rule_set 88 / 350
+processing: 88/350
+rule_set 89 / 350
+processing: 89/350
+rule_set 90 / 350
+processing: 90/350
+rule_set 91 / 350
+processing: 91/350
+rule_set 92 / 350
+processing: 92/350
+rule_set 93 / 350
+processing: 93/350
+rule_set 94 / 350
+processing: 94/350
+rule_set 95 / 350
+processing: 95/350
+rule_set 96 / 350
+processing: 96/350
+rule_set 97 / 350
+processing: 97/350
+rule_set 98 / 350
+processing: 98/350
+rule_set 99 / 350
+processing: 99/350
+rule_set 100 / 350
+processing: 100/350
+rule_set 101 / 350
+processing: 101/350
+rule_set 102 / 350
+processing: 102/350
+rule_set 103 / 350
+processing: 103/350
+rule_set 104 / 350
+processing: 104/350
+rule_set 105 / 350
+processing: 105/350
+rule_set 106 / 350
+processing: 106/350
+rule_set 107 / 350
+processing: 107/350
+rule_set 108 / 350
+processing: 108/350
+rule_set 109 / 350
+processing: 109/350
+rule_set 110 / 350
+processing: 110/350
+rule_set 111 / 350
+processing: 111/350
+rule_set 112 / 350
+processing: 112/350
+rule_set 113 / 350
+processing: 113/350
+rule_set 114 / 350
+processing: 114/350
+rule_set 115 / 350
+processing: 115/350
+rule_set 116 / 350
+processing: 116/350
+rule_set 117 / 350
+processing: 117/350
+rule_set 118 / 350
+processing: 118/350
+rule_set 119 / 350
+processing: 119/350
+rule_set 120 / 350
+processing: 120/350
+rule_set 121 / 350
+processing: 121/350
+rule_set 122 / 350
+processing: 122/350
+rule_set 123 / 350
+processing: 123/350
+rule_set 124 / 350
+processing: 124/350
+rule_set 125 / 350
+processing: 125/350
+rule_set 126 / 350
+processing: 126/350
+rule_set 127 / 350
+processing: 127/350
+rule_set 128 / 350
+processing: 128/350
+rule_set 129 / 350
+processing: 129/350
+rule_set 130 / 350
+processing: 130/350
+rule_set 131 / 350
+processing: 131/350
+rule_set 132 / 350
+processing: 132/350
+rule_set 133 / 350
+processing: 133/350
+rule_set 134 / 350
+processing: 134/350
+rule_set 135 / 350
+processing: 135/350
+rule_set 136 / 350
+processing: 136/350
+rule_set 137 / 350
+processing: 137/350
+rule_set 138 / 350
+processing: 138/350
+rule_set 139 / 350
+processing: 139/350
+rule_set 140 / 350
+processing: 140/350
+rule_set 141 / 350
+processing: 141/350
+rule_set 142 / 350
+processing: 142/350
+rule_set 143 / 350
+processing: 143/350
+rule_set 144 / 350
+processing: 144/350
+rule_set 145 / 350
+processing: 145/350
+rule_set 146 / 350
+processing: 146/350
+rule_set 147 / 350
+processing: 147/350
+rule_set 148 / 350
+processing: 148/350
+rule_set 149 / 350
+processing: 149/350
+rule_set 150 / 350
+processing: 150/350
+rule_set 151 / 350
+processing: 151/350
+rule_set 152 / 350
+processing: 152/350
+rule_set 153 / 350
+processing: 153/350
+rule_set 154 / 350
+processing: 154/350
+rule_set 155 / 350
+processing: 155/350
+rule_set 156 / 350
+processing: 156/350
+rule_set 157 / 350
+processing: 157/350
+rule_set 158 / 350
+processing: 158/350
+rule_set 159 / 350
+processing: 159/350
+rule_set 160 / 350
+processing: 160/350
+rule_set 161 / 350
+processing: 161/350
+rule_set 162 / 350
+processing: 162/350
+rule_set 163 / 350
+processing: 163/350
+rule_set 164 / 350
+processing: 164/350
+rule_set 165 / 350
+processing: 165/350
+rule_set 166 / 350
+processing: 166/350
+rule_set 167 / 350
+processing: 167/350
+rule_set 168 / 350
+processing: 168/350
+rule_set 169 / 350
+processing: 169/350
+rule_set 170 / 350
+processing: 170/350
+rule_set 171 / 350
+processing: 171/350
+rule_set 172 / 350
+processing: 172/350
+rule_set 173 / 350
+processing: 173/350
+rule_set 174 / 350
+processing: 174/350
+rule_set 175 / 350
+processing: 175/350
+rule_set 176 / 350
+processing: 176/350
+rule_set 177 / 350
+processing: 177/350
+rule_set 178 / 350
+processing: 178/350
+rule_set 179 / 350
+processing: 179/350
+rule_set 180 / 350
+processing: 180/350
+rule_set 181 / 350
+processing: 181/350
+rule_set 182 / 350
+processing: 182/350
+rule_set 183 / 350
+processing: 183/350
+rule_set 184 / 350
+processing: 184/350
+rule_set 185 / 350
+processing: 185/350
+rule_set 186 / 350
+processing: 186/350
+rule_set 187 / 350
+processing: 187/350
+rule_set 188 / 350
+processing: 188/350
+rule_set 189 / 350
+processing: 189/350
+rule_set 190 / 350
+processing: 190/350
+rule_set 191 / 350
+processing: 191/350
+rule_set 192 / 350
+processing: 192/350
+rule_set 193 / 350
+processing: 193/350
+rule_set 194 / 350
+processing: 194/350
+rule_set 195 / 350
+processing: 195/350
+rule_set 196 / 350
+processing: 196/350
+rule_set 197 / 350
+processing: 197/350
+rule_set 198 / 350
+processing: 198/350
+rule_set 199 / 350
+processing: 199/350
+rule_set 200 / 350
+processing: 200/350
+rule_set 201 / 350
+processing: 201/350
+rule_set 202 / 350
+processing: 202/350
+rule_set 203 / 350
+processing: 203/350
+rule_set 204 / 350
+processing: 204/350
+rule_set 205 / 350
+processing: 205/350
+rule_set 206 / 350
+processing: 206/350
+rule_set 207 / 350
+processing: 207/350
+rule_set 208 / 350
+processing: 208/350
+rule_set 209 / 350
+processing: 209/350
+rule_set 210 / 350
+processing: 210/350
+rule_set 211 / 350
+processing: 211/350
+rule_set 212 / 350
+processing: 212/350
+rule_set 213 / 350
+processing: 213/350
+rule_set 214 / 350
+processing: 214/350
+rule_set 215 / 350
+processing: 215/350
+rule_set 216 / 350
+processing: 216/350
+rule_set 217 / 350
+processing: 217/350
+rule_set 218 / 350
+processing: 218/350
+rule_set 219 / 350
+processing: 219/350
+rule_set 220 / 350
+processing: 220/350
+rule_set 221 / 350
+processing: 221/350
+rule_set 222 / 350
+processing: 222/350
+rule_set 223 / 350
+processing: 223/350
+rule_set 224 / 350
+processing: 224/350
+rule_set 225 / 350
+processing: 225/350
+rule_set 226 / 350
+processing: 226/350
+rule_set 227 / 350
+processing: 227/350
+rule_set 228 / 350
+processing: 228/350
+rule_set 229 / 350
+processing: 229/350
+rule_set 230 / 350
+processing: 230/350
+rule_set 231 / 350
+processing: 231/350
+rule_set 232 / 350
+processing: 232/350
+rule_set 233 / 350
+processing: 233/350
+rule_set 234 / 350
+processing: 234/350
+rule_set 235 / 350
+processing: 235/350
+rule_set 236 / 350
+processing: 236/350
+rule_set 237 / 350
+processing: 237/350
+rule_set 238 / 350
+processing: 238/350
+rule_set 239 / 350
+processing: 239/350
+rule_set 240 / 350
+processing: 240/350
+rule_set 241 / 350
+processing: 241/350
+rule_set 242 / 350
+processing: 242/350
+rule_set 243 / 350
+processing: 243/350
+rule_set 244 / 350
+processing: 244/350
+rule_set 245 / 350
+processing: 245/350
+rule_set 246 / 350
+processing: 246/350
+rule_set 247 / 350
+processing: 247/350
+rule_set 248 / 350
+processing: 248/350
+rule_set 249 / 350
+processing: 249/350
+rule_set 250 / 350
+processing: 250/350
+rule_set 251 / 350
+processing: 251/350
+rule_set 252 / 350
+processing: 252/350
+rule_set 253 / 350
+processing: 253/350
+rule_set 254 / 350
+processing: 254/350
+rule_set 255 / 350
+processing: 255/350
+rule_set 256 / 350
+processing: 256/350
+rule_set 257 / 350
+processing: 257/350
+rule_set 258 / 350
+processing: 258/350
+rule_set 259 / 350
+processing: 259/350
+rule_set 260 / 350
+processing: 260/350
+rule_set 261 / 350
+processing: 261/350
+rule_set 262 / 350
+processing: 262/350
+rule_set 263 / 350
+processing: 263/350
+rule_set 264 / 350
+processing: 264/350
+rule_set 265 / 350
+processing: 265/350
+rule_set 266 / 350
+processing: 266/350
+rule_set 267 / 350
+processing: 267/350
+rule_set 268 / 350
+processing: 268/350
+rule_set 269 / 350
+processing: 269/350
+rule_set 270 / 350
+processing: 270/350
+rule_set 271 / 350
+processing: 271/350
+rule_set 272 / 350
+processing: 272/350
+rule_set 273 / 350
+processing: 273/350
+rule_set 274 / 350
+processing: 274/350
+rule_set 275 / 350
+processing: 275/350
+rule_set 276 / 350
+processing: 276/350
+rule_set 277 / 350
+processing: 277/350
+rule_set 278 / 350
+processing: 278/350
+rule_set 279 / 350
+processing: 279/350
+rule_set 280 / 350
+processing: 280/350
+rule_set 281 / 350
+processing: 281/350
+rule_set 282 / 350
+processing: 282/350
+rule_set 283 / 350
+processing: 283/350
+rule_set 284 / 350
+processing: 284/350
+rule_set 285 / 350
+processing: 285/350
+rule_set 286 / 350
+processing: 286/350
+rule_set 287 / 350
+processing: 287/350
+rule_set 288 / 350
+processing: 288/350
+rule_set 289 / 350
+processing: 289/350
+rule_set 290 / 350
+processing: 290/350
+rule_set 291 / 350
+processing: 291/350
+rule_set 292 / 350
+processing: 292/350
+rule_set 293 / 350
+processing: 293/350
+rule_set 294 / 350
+processing: 294/350
+rule_set 295 / 350
+processing: 295/350
+rule_set 296 / 350
+processing: 296/350
+rule_set 297 / 350
+processing: 297/350
+rule_set 298 / 350
+processing: 298/350
+rule_set 299 / 350
+processing: 299/350
+rule_set 300 / 350
+processing: 300/350
+rule_set 301 / 350
+processing: 301/350
+rule_set 302 / 350
+processing: 302/350
+rule_set 303 / 350
+processing: 303/350
+rule_set 304 / 350
+processing: 304/350
+rule_set 305 / 350
+processing: 305/350
+rule_set 306 / 350
+processing: 306/350
+rule_set 307 / 350
+processing: 307/350
+rule_set 308 / 350
+processing: 308/350
+rule_set 309 / 350
+processing: 309/350
+rule_set 310 / 350
+processing: 310/350
+rule_set 311 / 350
+processing: 311/350
+rule_set 312 / 350
+processing: 312/350
+rule_set 313 / 350
+processing: 313/350
+rule_set 314 / 350
+processing: 314/350
+rule_set 315 / 350
+processing: 315/350
+rule_set 316 / 350
+processing: 316/350
+rule_set 317 / 350
+processing: 317/350
+rule_set 318 / 350
+processing: 318/350
+rule_set 319 / 350
+processing: 319/350
+rule_set 320 / 350
+processing: 320/350
+rule_set 321 / 350
+processing: 321/350
+rule_set 322 / 350
+processing: 322/350
+rule_set 323 / 350
+processing: 323/350
+rule_set 324 / 350
+processing: 324/350
+rule_set 325 / 350
+processing: 325/350
+rule_set 326 / 350
+processing: 326/350
+rule_set 327 / 350
+processing: 327/350
+rule_set 328 / 350
+processing: 328/350
+rule_set 329 / 350
+processing: 329/350
+rule_set 330 / 350
+processing: 330/350
+rule_set 331 / 350
+processing: 331/350
+rule_set 332 / 350
+processing: 332/350
+rule_set 333 / 350
+processing: 333/350
+rule_set 334 / 350
+processing: 334/350
+rule_set 335 / 350
+processing: 335/350
+rule_set 336 / 350
+processing: 336/350
+rule_set 337 / 350
+processing: 337/350
+rule_set 338 / 350
+processing: 338/350
+rule_set 339 / 350
+processing: 339/350
+rule_set 340 / 350
+processing: 340/350
+rule_set 341 / 350
+processing: 341/350
+rule_set 342 / 350
+processing: 342/350
+rule_set 343 / 350
+processing: 343/350
+rule_set 344 / 350
+processing: 344/350
+rule_set 345 / 350
+processing: 345/350
+rule_set 346 / 350
+processing: 346/350
+rule_set 347 / 350
+processing: 347/350
+rule_set 348 / 350
+processing: 348/350
+rule_set 349 / 350
+processing: 349/350
